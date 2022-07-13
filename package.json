@@ -1,0 +1,24 @@
+{
+  "name": "sitio-web",
+  "version": "1.0.0",
+  "description": "Servidor para chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caceresliz/sitio-web.git"
+  },
+  "keywords": [
+    "chatbot",
+    "dialogflow",
+    "messenger"
+  ],
+  "author": "Liz Caceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caceresliz/sitio-web/issues"
+  },
+  "homepage": "https://github.com/caceresliz/sitio-web#readme"
+}
